@@ -1,2 +1,2 @@
 ## 命令行工具
-[Inquirer](https://github.com/SBoudrias/Inquirer.js)： 一个命令行调查文件生成器
+[Inquirer](https://github.com/SBoudrias/Inquirer.js)： 使用命令行生成调查问卷
