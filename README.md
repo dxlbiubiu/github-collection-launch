@@ -6,3 +6,6 @@
 
 ## vue
 [vue-multi-page](https://github.com/jarvan4dev/vue-multi-page): 如何将vue-cli生成的webpack改成多页面的脚手架
+
+## shell
+[z](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z): `oh-my-zsh`目录跳转插件
