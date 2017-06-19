@@ -9,3 +9,7 @@
 
 ## shell
 [z](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z): `oh-my-zsh`目录跳转插件
+
+
+## js
+[mermaid](https://github.com/knsv/mermaid): 使用js生成流程图
