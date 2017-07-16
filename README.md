@@ -13,3 +13,6 @@
 
 ## js
 [mermaid](https://github.com/knsv/mermaid): 使用js生成流程图
+
+## git
+[git flow](https://github.com/nvie/gitflow): git工作流 在git基础上 总结的最佳实践
