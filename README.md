@@ -16,3 +16,7 @@
 
 ## git
 [git flow](https://github.com/nvie/gitflow): git工作流 在git基础上 总结的最佳实践
+
+## 工具
+
+[hygen](https://github.com/jondot/hygen): 使用ejs生成模版代码
